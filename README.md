@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-
+<p>Graduated in Energy Engineering with experience in diferents projects and research. I am also a graduated of Codeable where I
+learned different technologies and be able to work as a full stack programmer, my strengths are analytical capacity, team player, quick
+learning. I like technologioes so much and I am looking for a place that allows me to develop my skills and where I can to grow up.</p>
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **frank.cano@utec.edu.pe**
