@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+- 🌱 I’m currently learning **Java**
+
+- 📫 How to reach me **frank.cano@utec.edu.pe**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/frankcano1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankcano1515" height="30" width="40" /></a>
